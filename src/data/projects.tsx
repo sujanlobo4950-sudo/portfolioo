@@ -498,7 +498,7 @@ const projects: Project[] = [
     id: "portfolio",
     category: "Portfolio",
     title: "My Portfolio",
-    src: "/assets/projects-screenshots/portfolio/Screenshot 2026-05-12 at 12.04.05 PM.png",
+    src: "/assets/projects-screenshots/portfolio/ss.png",
     screenshots: ["1.png"],
     live: "https://portfolioo-8gzsexscf-sujanlobo4950-4277s-projects.vercel.app",
     github:"https://github.com/sujanlobo4950-sudo
