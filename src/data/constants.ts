@@ -258,15 +258,16 @@ export type Experience = {
 export const EXPERIENCE: Experience[] = [
   {
     id: 1,
-    startDate: "Dec 2024",
+    startDate: "Dec 2025",
     endDate: "Present",
-    title: "Full Stack Developer",
-    company: "OmniNexus Sdn Bhd",
+    title: "IT and Marketing",
+    company: "EWBS Group Of Companies",
     description: [
-      "Built a custom image editor from scratch, cutting $4.8k/year in SaaS costs.",
-      "Architected async job queues processing 1k+ AI tasks daily with bulletproof reliability.",
-      "Optimized media delivery pipeline, slashing asset load times by 40%.",
-      "Shipped high-impact features end-to-end from requirements to production.",
+      "Generated and managed leads through email marketing campaigns to support business growth and sales targets.",
+      "Designed creative marketing materials using Adobe Photoshop, Canva, and other design tools for digital promotions and branding.",
+      "Managed CRM operations, including lead tracking, lead qualification, data updates, and customer follow-ups.",
+      "Coordinated lead assignment to the sales team and maintained accurate lead status updates and reporting.",
+      "Provided IT support by troubleshooting hardware, software, network, and system-related issues.",
     ],
     skills: [
       SkillNames.NEXTJS,
@@ -281,15 +282,16 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 2,
-    startDate: "Apr 2022",
-    endDate: "Dec 2024",
-    title: "Freelance Full Stack Developer",
-    company: "Self-employed",
+    startDate: "Mar 2024",
+    endDate: "Feb 2025",
+    title: "Marketing Manager",
+    company: "Skyway Real Estate Agency",
     description: [
-      "Transformed chaotic Excel sheets into polished internal tools for various clients.",
-      "Shipped dashboards and custom CMS platforms tailored to each client's workflow.",
-      "Automated repetitive processes, improving efficiency and reducing human error.",
-      "Focused on clean, maintainable code and interfaces that users actually enjoy.",
+      "Managed and maintained company IT infrastructure including networks, servers, and cloud services, ensuring 99.9% uptime.",
+      "Led system upgrades, hardware installations, and software updates, optimizing workflow efficiency.",
+      "Automated routine tasks using scripting and tools, improving overall productivity and reducing manual workload.",
+      "Managed databases, ensuring data integrity, backup systems, and disaster recovery protocols were in place.",
+      "Designed visually compelling graphics, videos, and promotional materials, enhancing digital presence and brand consistency.",
     ],
     skills: [
       SkillNames.REACT,
